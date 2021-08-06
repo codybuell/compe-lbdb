@@ -48,7 +48,7 @@ require('compe').setup({
       priority = 80,
       filetypes = {'mail'},
       blacklist = {
-        'cody@codybuell.com',
+        'user@host.com',
         '.*noreply.*',
       },
     },
