@@ -1,7 +1,7 @@
 compe-lbdb
 ==========
 
-lbdb completion source for [nvim-compe](https://github.com/hrsh7th/nvim-compe). Names, emails, and email header recipient formatted completions are provided contacts found in lbdb.
+lbdb completion source for [nvim-compe](https://github.com/hrsh7th/nvim-compe). Names, emails, and email header recipient formatted completions are provided for contacts found in lbdb.
 
 ![screenshot](images/screenshot.png)
 
